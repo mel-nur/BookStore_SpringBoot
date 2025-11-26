@@ -100,5 +100,5 @@ server.port=1001
 - DTO kullanarak entity'leri dışa/İçe dönüştürün.
 
 ---
-Oluşturan: Proje yardımcı README (otomatik)
+
 
